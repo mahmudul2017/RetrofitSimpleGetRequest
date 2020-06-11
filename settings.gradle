@@ -1,0 +1,2 @@
+rootProject.name='RetrofitSimpleGetRequest'
+include ':app'
